@@ -2,5 +2,5 @@
 
 
 void main() {
-	printf("hello world, im tagidu shuf sheze yashan, tikashlu, dirbalak, sababa ?\n");
+	printf("hello world, im tagidu shuf sheze yashan, tikashlu, dirbalak, hey conflict sababa ?\n");
 }
